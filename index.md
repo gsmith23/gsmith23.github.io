@@ -4,7 +4,7 @@ layout: default
 
 The Nuclear Physics group at the University of Edinburgh are hosting a meeting on Positron Emission Tomography.
 
-### Definition lists can be used with HTML syntax.
+#### Details
 
 <dl>
 <dt>Where</dt>
@@ -19,11 +19,9 @@ The Nuclear Physics group at the University of Edinburgh are hosting a meeting o
 <dd>Gary Smith</dd>
 </dl>
 
-#### [](#header-4) Topics Covered
+####../images/blacktocat.png [](#header-4) Topics Covered
 
 *   Simulations
-*   Detectors
-*   Clinical
+*   Detector Technologies
+*   Clinical and Preclinical Imaging
 *   Regulation
-
-[Link to instructions](instructions-page).
