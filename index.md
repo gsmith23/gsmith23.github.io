@@ -22,12 +22,18 @@ The theme is broad and aims to foster discussions and collaborations.
 #### [](#header-4) Topics 
 
 *   Simulations
+*   Software
+*   Data Analysis
 *   Detector Technologies
-*   Clinical and Preclinical Imaging
+*   Clinical Imaging
+*   Preclinical Imaging
+*   Image reconstruction
 *   Regulation
 
 #### [](#header-4) Support
 
 This meeting is sponsored by the [Institute Of Physics Nuclear Physics Group](http://www.iop.org/activity/groups/subject/np/). 
 
-Some travel costs may be supported. Please get in touch if you are interested in attending. 
+Some travel costs may be supported. 
+
+Please get in (touch)[(http://www.ph.ed.ac.uk/people/gary-smith)] if you are interested in attending. 
