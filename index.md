@@ -16,6 +16,7 @@ The Nuclear Physics group at the University of Edinburgh are hosting a meeting o
 <dt>Why</dt>
 <dd>[Link](another-page) An opportunity to share ideas and learn in a cross-disciplinary environment.</dd>
 <dt>Contact</dt>
+<dd> <a http://www.ph.ed.ac.uk/people/gary-smith > Gary Smith </a></dd>
 </dl>
 [Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
 
