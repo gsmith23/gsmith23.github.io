@@ -28,7 +28,7 @@ Who
 Why
   - An opportunity to share ideas and learn in a cross-disciplinary environment.
 Contact
-  - [Gary Smith] (http://www.ph.ed.ac.uk/people/gary-smith)
+  ![Gary Smith] (http://www.ph.ed.ac.uk/people/gary-smith)
 
 [Link](another-page) 
 
