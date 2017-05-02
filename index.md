@@ -4,7 +4,7 @@ layout: default
 
 The [Nuclear Physics Group](http://www2.ph.ed.ac.uk/nuclear/) at the [University of Edinburgh](http://www.ed.ac.uk) are hosting a meeting on the physics of Positron Emission Tomography and related topics.
 
-#### [](#header-4) Details
+### [](#header-3) Details
 
 ###### [](#header-6) Where
 [JCMB, Kings Buildings, University of Edinburgh](http://www.ph.ed.ac.uk/about/locations/jcmb)
@@ -17,7 +17,7 @@ An opportunity to share ideas and learn in a cross-disciplinary environment
 ###### [](#header-6) Contact
 [Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
 
-#### [](#header-4) Topics 
+### [](#header-3) Topics 
 
 The theme is broad and aims to foster discussions and collaborations.
 
@@ -30,7 +30,7 @@ The theme is broad and aims to foster discussions and collaborations.
 *   Image reconstruction
 *   Regulation
 
-#### [](#header-4) Support
+### [](#header-3) Support
 
 This meeting is sponsored by the [Institute Of Physics Nuclear Physics Group](http://www.iop.org/activity/groups/subject/np/). 
 
