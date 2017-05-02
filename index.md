@@ -16,7 +16,7 @@ The Nuclear Physics group at the University of Edinburgh are hosting a meeting o
 <dt>Why</dt>
 <dd>An opportunity to share ideas and learn in a cross-disciplinary environment.</dd>
 <dt>Contact</dt>
-	<dd> <a Gary Smith href="{{ http://www.ph.ed.ac.uk/people/gary-smith}} > </dd>
+	<dd> <a Gary Smith href="{{ http://www.ph.ed.ac.uk/people/gary-smith}}> </a> </dd>
 </dl>
 
 The theme is broad and aims to foster discussions and inform different PET disciplins about what is the cutting edge.
