@@ -36,4 +36,4 @@ This meeting is sponsored by the [Institute Of Physics Nuclear Physics Group](ht
 
 Some travel costs may be supported. 
 
-Please get in (touch)[(http://www.ph.ed.ac.uk/people/gary-smith)] if you are interested in attending. 
+Please get in [touch](http://www.ph.ed.ac.uk/people/gary-smith) if you are interested in attending. 
