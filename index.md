@@ -7,15 +7,15 @@ The Nuclear Physics group at the University of Edinburgh are hosting a meeting o
 #### [](#header-4) Details
 
 ###### [](#header-6) Where
-&nbsp JCMB, Kings Buildings, University of Edinburgh
+JCMB, Kings Buildings, University of Edinburgh
 ###### [](#header-6) When
-&nbsp Friday 9th June 2017
+Friday 9th June 2017
 ###### [](#header-6) Who
-&nbsp Physicists, Clinicians, Engineers, Industry
+Physicists, Clinicians, Engineers, Industry
 ###### [](#header-6) Why
-&nbsp An opportunity to share ideas and learn in a cross-disciplinary environment.
+An opportunity to share ideas and learn in a cross-disciplinary environment.
 ###### [](#header-6) Contact
-&nbsp [Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
+[Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
 
 The theme is broad and aims to foster discussions and collaborations.
 
