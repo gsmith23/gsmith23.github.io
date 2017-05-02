@@ -26,9 +26,9 @@ Friday 9th June 2017
 Who
 Physicists, Clinicians, Engineers, Industry
 Why
-[Link](another-page) An opportunity to share ideas and learn in a cross-disciplinary environment.</dd>
+[Link](another-page) An opportunity to share ideas and learn in a cross-disciplinary environment.
 Contact
-http://www.ph.ed.ac.uk/people/gary-smith > Gary Smith </a></dd>
+http://www.ph.ed.ac.uk/people/gary-smith > Gary Smith
 
 
 
