@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The Nuclear Physics group at the University of Edinburgh are hosting a meeting on Positron Emission Tomography.  
+The Nuclear Physics group at the University of Edinburgh are hosting a meeting on the physics of Positron Emission Tomography and related topics.
 
 #### [](#header-4) Details
 
