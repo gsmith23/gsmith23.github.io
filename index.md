@@ -19,11 +19,13 @@ An opportunity to share ideas and learn in a cross-disciplinary environment.
 
 The theme is broad and aims to foster discussions and collaborations.
 
-#### [](#header-4) Topics Covered
+#### [](#header-4) Topics 
 
 *   Simulations
 *   Detector Technologies
 *   Clinical and Preclinical Imaging
 *   Regulation
 
+#### [](#header-4) Support
 
+This meeting is sponsored by the [Institute Of Physics Nuclear Physics Group](http://www.iop.org/activity/groups/subject/np/). Some travel costs may be supported.  Please get in touch if you are interested in attending. 
