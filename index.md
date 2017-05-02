@@ -13,7 +13,7 @@ Friday 9th June 2017
 ###### [](#header-6) Who
 Physicists, Clinicians, Engineers, Industry
 ###### [](#header-6) Why
-An opportunity to share ideas and learn in a cross-disciplinary environment.
+An opportunity to share ideas and learn in a cross-disciplinary environment
 ###### [](#header-6) Contact
 [Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
 
@@ -28,4 +28,6 @@ The theme is broad and aims to foster discussions and collaborations.
 
 #### [](#header-4) Support
 
-This meeting is sponsored by the [Institute Of Physics Nuclear Physics Group](http://www.iop.org/activity/groups/subject/np/). Some travel costs may be supported.  Please get in touch if you are interested in attending. 
+This meeting is sponsored by the [Institute Of Physics Nuclear Physics Group](http://www.iop.org/activity/groups/subject/np/). 
+
+Some travel costs may be supported. Please get in touch if you are interested in attending. 
