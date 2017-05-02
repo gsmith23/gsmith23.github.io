@@ -6,6 +6,7 @@ The Nuclear Physics group at the University of Edinburgh are hosting a meeting o
 
 #### [](#header-4) Details
 
+<p>
 ###### [](#header-6) Where
 JCMB, Kings Buildings, University of Edinburgh
 ###### [](#header-6) When
@@ -18,6 +19,7 @@ An opportunity to share ideas and learn in a cross-disciplinary environment.
 [Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
 
 The theme is broad and aims to foster discussions and collaborations.
+</p>
 
 #### [](#header-4) Topics 
 
