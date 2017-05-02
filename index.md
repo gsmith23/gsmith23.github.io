@@ -19,16 +19,16 @@ The Nuclear Physics group at the University of Edinburgh are hosting a meeting o
 <dd> <a http://www.ph.ed.ac.uk/people/gary-smith > Gary Smith </a></dd>
 </dl-->
 
-- Where
- - JCMB, Kings Buildings, University of Edinburgh
-- When
- - Friday 9th June 2017
-- Who
- - Physicists, Clinicians, Engineers, Industry
-- Why
- - An opportunity to share ideas and learn in a cross-disciplinary environment.
-- Contact
- - [Gary Smith] (http://www.ph.ed.ac.uk/people/gary-smith)
+Where
+  - JCMB, Kings Buildings, University of Edinburgh
+When
+  - Friday 9th June 2017
+Who
+  - Physicists, Clinicians, Engineers, Industry
+Why
+  - An opportunity to share ideas and learn in a cross-disciplinary environment.
+Contact
+  - [Gary Smith] (http://www.ph.ed.ac.uk/people/gary-smith)
 
 [Link](another-page) 
 
