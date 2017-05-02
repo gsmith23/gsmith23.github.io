@@ -17,9 +17,9 @@ An opportunity to share ideas and learn in a cross-disciplinary environment
 ###### [](#header-6) Contact
 [Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
 
-The theme is broad and aims to foster discussions and collaborations.
-
 #### [](#header-4) Topics 
+
+The theme is broad and aims to foster discussions and collaborations.
 
 *   Simulations
 *   Software
