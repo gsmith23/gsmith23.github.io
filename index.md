@@ -4,8 +4,6 @@ layout: default
 
 The Nuclear Physics group at the University of Edinburgh are hosting a meeting on the physics of Positron Emission Tomography and related topics.
 
-<a id="new_link" href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
-
 #### [](#header-4) Details
 
 ###### [](#header-6) Where
