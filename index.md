@@ -19,7 +19,7 @@ The Nuclear Physics group at the University of Edinburgh are hosting a meeting o
 </dl>
 
 [Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
-
+[Link](another-page)
 
 The theme is broad and aims to foster discussions and inform different PET disciplins about what is the cutting edge.
 
