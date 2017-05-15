@@ -13,7 +13,7 @@ Friday 9th June 2017 from Midday
 ###### [](#header-6) Who
 Physicists, Clinicians, Engineers, Industry
 ###### [](#header-6) Why
-An opportunity to share ideas and learn in a cross-disciplinary environment
+Share ideas and learn in a cross-disciplinary environment
 ###### [](#header-6) What
 Talks and opportunities for discussion
 ###### [](#header-6) Contact
