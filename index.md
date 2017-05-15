@@ -9,7 +9,7 @@ The [Nuclear Physics Group](http://www2.ph.ed.ac.uk/nuclear/) at the [University
 ###### [](#header-6) Where
 [JCMB, Kings Buildings, University of Edinburgh](http://www.ph.ed.ac.uk/about/locations/jcmb)
 ###### [](#header-6) When
-Friday 9th June 2017
+Friday 9th June 2017 from midday
 ###### [](#header-6) Who
 Physicists, Clinicians, Engineers, Industry
 ###### [](#header-6) Why
