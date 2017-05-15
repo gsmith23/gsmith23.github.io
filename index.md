@@ -9,11 +9,13 @@ The [Nuclear Physics Group](http://www2.ph.ed.ac.uk/nuclear/) at the [University
 ###### [](#header-6) Where
 [JCMB, Kings Buildings, University of Edinburgh](http://www.ph.ed.ac.uk/about/locations/jcmb)
 ###### [](#header-6) When
-Friday 9th June 2017 from midday
+Friday 9th June 2017 from Midday
 ###### [](#header-6) Who
 Physicists, Clinicians, Engineers, Industry
 ###### [](#header-6) Why
 An opportunity to share ideas and learn in a cross-disciplinary environment
+###### [](#header-6) What
+Talks and opportinities for discussion
 ###### [](#header-6) Contact
 [Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
 
