@@ -16,6 +16,9 @@ Physicists, Clinicians, Engineers, Industry
 Share ideas and learn in a cross-disciplinary environment
 ###### [](#header-6) What
 Talks and opportunities for discussion
+###### [](#header-6) How
+Please register on Eventbrite if you will be attending.
+https://petinthefuture.eventbrite.co.uk
 ###### [](#header-6) Contact
 [Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
 
