@@ -15,7 +15,7 @@ Physicists, Clinicians, Engineers, Industry
 ###### [](#header-6) Why
 An opportunity to share ideas and learn in a cross-disciplinary environment
 ###### [](#header-6) What
-Talks and opportinities for discussion
+Talks and opportunities for discussion
 ###### [](#header-6) Contact
 [Gary Smith](http://www.ph.ed.ac.uk/people/gary-smith)
 
